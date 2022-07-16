@@ -183,8 +183,3 @@ rm -r pfsense-to-influxdb-*
 ## License
 Licensed under the terms of the MIT license. See [LICENSE.md](https://github.com/ArmaanT/pfsense-to-influxdb/blob/master/LICENSE.md)
 
-## test
-- [ ] foo
-  - [ ] foo
-  - [ ] foo
-    - [ ] foo
